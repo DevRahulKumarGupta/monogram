@@ -4,3 +4,8 @@ config.stencil
 config.stencil.json
 secrets.stencil.json
 secrets.stencil
+
+/config.stencil
+/config.stencil.json
+/secrets.stencil.json
+/secrets.stencil
