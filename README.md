@@ -37,10 +37,9 @@ This monogram feature empowers customers to personalize products and provides a 
 ###Add stencil requirements:**
    ```bash
    Stencil init
-stencil init
-? What is the URL of your store's home page? <store url>
-? What is your Stencil OAuth Access Token? <access token>
-? What port would you like to run the server on? (5000) <port>
+      ? What is the URL of your store's home page? <store url>
+      ? What is your Stencil OAuth Access Token? <access token>
+      ? What port would you like to run the server on? (5000) <port>
 
 
 ```
