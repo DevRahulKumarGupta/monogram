@@ -5,6 +5,6 @@
     "page": {},
     "product": {}
   },
-  "normalStoreUrl": "https://wargis.mybigcommerce.com/",
-  "port": "3000"
+  "normalStoreUrl": "",
+  "port": ""
 }
