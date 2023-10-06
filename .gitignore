@@ -1,1 +1,6 @@
 node_modules
+
+config.stencil
+config.stencil.json
+secrets.stencil.json
+secrets.stencil
