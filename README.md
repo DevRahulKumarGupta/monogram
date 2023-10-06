@@ -28,4 +28,4 @@ This monogram feature empowers customers to personalize products and provides a 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/stencil-theme-monogram.git
+   git clone https://github.com/Rahulkumarbrj/monogram.git
