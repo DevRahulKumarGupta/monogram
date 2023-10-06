@@ -22,10 +22,25 @@ This monogram feature empowers customers to personalize products and provides a 
 
 ### Prerequisites
 - Access to your online store's Stencil theme files.
-- Basic knowledge of HTML, CSS, and JavaScript may help for customization.
+- Basic knowledge of HTML, CSS, and JavaScript may help with customization.
 
 ### Installation Steps
 
-1. **Clone the Repository:**
+###Clone the Repository:**
    ```bash
    git clone https://github.com/Rahulkumarbrj/monogram.git
+```
+
+### Modifications to the following files.
+- assets/js/theme/custom/monogram.js
+- templates/components/products/product-view.html
+- templates/components/products/options/swatch.html
+- templates/components/products/options/input-text.html
+- assets/js/theme/product.js
+
+
+### product configuration.
+- Add an image for the product with the alt tag "monogram"
+- Create two Modifier Options with one
+   1. LABEL "Enter your initials or name to be monogrammed" AND TYPE "TEXT"
+   2. LABEL "Choose your colour" AND TYPE "Swatch"
