@@ -1,62 +1,31 @@
-# Project Name
+# Stencil Theme with Monogram Functionality
 
-Brief description of your project.
+## Description
+This Stencil theme enhances your online store's product view page with a dynamic monogram feature. Customers can click the "Customize" button to open a popup window with two sections:
 
-## Table of Contents
+1. **Image Section:** This displays the product image, serving as a canvas for custom text and color swatches.
 
-- [Project Name](#project-name)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Demo](#demo)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgements](#acknowledgements)
+2. **Text Customization Section:** Here, customers can:
+   - Enter text in an input box.
+   - Select color swatches from checkboxes.
+   - Apply the selected color to the entered text, instantly changing its appearance on the product image.
 
-## About
+This monogram feature empowers customers to personalize products and provides a more engaging shopping experience.
 
-Provide a brief overview of your project. What is it? Why did you create it? Mention any technologies or libraries used.
+## Benefits
+- **Enhanced User Experience:** Real-time customization increases engagement and satisfaction.
+- **Personalization:** Customers can add their touch, boosting the likelihood of a purchase.
+- **Color Swatch Integration:** Easy color selection ensures a seamless blend with product design.
+- **Instant Preview:** Product image updates in real-time, offering immediate feedback.
 
-## Demo
-
-Include a link to a live demo or a screenshot/gif of your project in action.
-
-## Features
-
-List the key features and functionalities of your project.
-
-## Getting Started
-
-Provide instructions for setting up and running your project locally. Be sure to include prerequisites and installation steps.
+## Installation and Running
 
 ### Prerequisites
+- Access to your online store's Stencil theme files.
+- Basic knowledge of HTML, CSS, and JavaScript may help for customization.
 
-List any software, tools, or dependencies that users need to have installed before they can use your project.
+### Installation Steps
 
-### Installation
-
-Step-by-step instructions on how to install and configure your project.
-
-## Usage
-
-Explain how to use your project, including code examples and usage scenarios. Provide clear instructions to help users make the most of your project.
-
-## Contributing
-
-Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgements
-
-Mention and thank any individuals, organizations, or resources that you used or were inspired by during the development of your project.
-
----
-
-Feel free to customize this template to fit your specific project's needs. A well-documented README file can greatly improve the usability of your project and encourage collaboration from the GitHub community.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/stencil-theme-monogram.git
