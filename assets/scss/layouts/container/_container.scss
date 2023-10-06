@@ -1,0 +1,41 @@
+// =============================================================================
+// GRID (CSS)
+// =============================================================================
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: layout("max") + ($container-padding * 4);
+    padding: 0 $container-padding;
+    position: relative;
+    width: layout("fixed");
+
+    @include breakpoint("large") {
+        padding: 0 ($container-padding * 4);
+    }
+
+
+    #inputsModifiers{
+        .form-radio:checked + .form-option {
+    border-color: #333333;
+    -webkit-box-shadow: 0 0 0 1px #333333;
+    box-shadow: 0 0 0 1px #333333;
+     
+    
+    
+}
+.form-option-swatch:has(.form-option-variant--none[title="None"]) {
+    display: none;
+  }
+.button--primary-reset{
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    &:hover{
+        color: red;
+        background-color: white;
+    }
+}
+    }
+}
